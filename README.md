@@ -113,4 +113,5 @@ issue：[github issue](http://github.com/notadd/neditor/issues "ueditor 论坛")
 
 ## 捐赠 
 
-![捐赠](https://www.notadd.com/images/donation.png)
+
+[捐赠](https://git.oschina.net/notadd/notadd?donate=true)
