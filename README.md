@@ -1,7 +1,3 @@
-Get Started
-==================
-![image ](https://www.notadd.com/src/neditor-ie.svg)
-
 ## Neditor富文本编辑器介绍
 
 Neditor 是我们团队基于 Ueditor 的一款富文本编辑器。
