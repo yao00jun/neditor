@@ -1,8 +1,3 @@
-![Packagist](https://img.shields.io/packagist/v/notadd/neditor.svg) 
-![Downloads](https://img.shields.io/packagist/dt/notadd/neditor.svg)
-
-Get Started
-==================
 
 ## Neditor富文本编辑器介绍
 
