@@ -1,8 +1,3 @@
-![Packagist](https://img.shields.io/packagist/v/notadd/neditor.svg) 
-![Downloads](https://img.shields.io/packagist/dt/notadd/neditor.svg)
-
-Get Started
-==================
 
 ## Neditor富文本编辑器介绍
 
@@ -113,4 +108,5 @@ issue：[github issue](http://github.com/notadd/neditor/issues "ueditor 论坛")
 
 ## 捐赠 
 
-![捐赠](https://www.notadd.com/images/donation.png)
+
+[捐赠](https://git.oschina.net/notadd/notadd?donate=true)
