@@ -99,7 +99,7 @@ Neditor github 地址：[http://github.com/notadd/neditor](http://github.com/fex
 
 Ueditor 文档：[http://fex.baidu.com/ueditor/](http://fex.baidu.com/ueditor/)
 
-
+注: 对IE8以下版本不再承诺兼容
 
 ## 联系我们 ##
 
