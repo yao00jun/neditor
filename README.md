@@ -104,10 +104,16 @@ Ueditor 文档：[http://fex.baidu.com/ueditor/](http://fex.baidu.com/ueditor/)
 ## 联系我们 ##
 
 QQ 群： 321735506
-[github issue](http://github.com/notadd/neditor/issues)
+
+[issue](http://github.com/notadd/neditor/issues)
+
 [论坛交流](https://bbs.notadd.com/category/13 "Neditor 论坛")
 
 ## 捐赠 
 
 
 [捐赠](https://git.oschina.net/notadd/notadd?donate=true)
+ 
+## Notadd 主项目
+
+https://github.com/notadd/notadd
