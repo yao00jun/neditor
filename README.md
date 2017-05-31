@@ -13,9 +13,6 @@ Demo:  https://neditor.notadd.com/demo/
 
 ### 第一步：下载编辑器 ###
 
-下载 Neditor 最新版
-
-或从源码编译：
 
 ```shell
 git clone 仓库地址
