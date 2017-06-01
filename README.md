@@ -13,7 +13,6 @@ Demo:  https://neditor.notadd.com/demo/
 
 ### 第一步：下载编辑器 ###
 
-
 ```shell
 git clone 仓库地址
 npm install
@@ -110,14 +109,7 @@ QQ 群： 321735506
 
 
 [捐赠](https://git.oschina.net/notadd/notadd?donate=true)
-<<<<<<< HEAD
- 
-## Notadd 主项目
-
-https://github.com/notadd/notadd
-=======
  
 ## Notadd 主项目
 
 https://github.com/notadd/notadd
->>>>>>> bde21e0b4576b214ebbd1b39bcec4e2307d5de18
