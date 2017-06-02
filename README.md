@@ -29,6 +29,18 @@ grunt notadd
 
 ![部署成功](https://www.notadd.com/src/neditor-demo.webp)
 
+### 编译其他语言为服务端的版本
+
+Neditor 默认以 PHP 为后端语言，但是同时也支持其他的后端语言，例如 jsp，.net。
+
+编译其他后端语言的方法为，为 grunt 命令添加 server 参数，例如，编译 jsp 为后端语言的版本的命令为：
+
+```bash
+grunt notadd --server=jsp
+```
+
+执行该命令后，则会在目录 dist 中生成对应的目录 utf8-jsp，目录包含了对应版本的文件。
+
 ### 自定义的参数
 
 编辑器有很多可自定义的参数项，在实例化的时候可以传入给编辑器：
