@@ -11,7 +11,9 @@ Demo:  https://neditor.notadd.com/demo/
 
 ## 入门部署和体验 ##
 
-### 第一步：下载编辑器 ###
+### 第一步：下载编辑器病并用 Grount 进行项目构建 ###
+
+请确保已安装 grunt-cli 库。
 
 ```shell
 git clone 仓库地址
@@ -19,33 +21,9 @@ npm install
 grunt notadd
 ```
 
-### 第二步：创建 demo 文件 ###
+### 第二步：在浏览器打开 index.html ###
 
-解压下载的包，在解压后的目录创建 demo.html 文件，填入下面的 html 代码
-
-```html
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<title>ueditor demo</title>
-</head>
-<body>
-	<!-- 加载编辑器的容器 -->
-	<script id="container" name="content" type="text/plain">这里写你的初始化内容</script>
-	<!-- 配置文件 -->
-	<script type="text/javascript" src="neditor.config.js"></script>
-	<!-- 编辑器源码文件 -->
-	<script type="text/javascript" src="ueditor.all.js"></script>
-	<!-- 实例化编辑器 -->
-	<script type="text/javascript">
-	    var ue = UE.getEditor('container');
-	</script>
-</body>
-</html>
-```
-
-### 第三步：在浏览器打开demo.html ###
+进入到目录 dist/utf8-php , 使用浏览器打开文件 index.html 。
 
 如果看到了下面这样的编辑器，恭喜你，初次部署成功！
 
