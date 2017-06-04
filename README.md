@@ -11,7 +11,7 @@ Demo:  https://neditor.notadd.com/demo/
 
 ## 入门部署和体验 ##
 
-### 第一步：下载编辑器病并用 Grount 进行项目构建 ###
+### 第一步：下载编辑器并用 Grount 进行项目构建 ###
 
 请确保已安装 grunt-cli 库。
 
